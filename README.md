@@ -42,7 +42,7 @@ Mediante un pequeño código en python se podrá obtener una lista para obtener 
     ```
     Básicamente es una condición si el usuario pune un numero mayor a 100 o menor a 60 soltara un mensaje de erro por asi decirlo.
 
-- #### Programa
+- #### Generar lista
     ```python
     else:
     for x in range(60, 101):
